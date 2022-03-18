@@ -1,0 +1,45 @@
+  
+header{
+    height:200px;
+     background-color: darkblue;
+     border-radius: 50px;
+     text-align: end;
+
+    
+}
+header img{
+    
+    height: 70px;
+    border-radius: 34px;
+   
+}
+.p_main{
+    height:auto;
+     
+}
+ footer{
+     background-color: aqua;
+     height:200px;
+     border-radius: 30px;   
+     
+     
+ }
+ 
+.p_aside_left{
+    background-color: bisque;
+   
+     border-radius: 30px;
+
+}
+.p_aside_right{
+    background-image: url(/imgs/spiderman.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     border-radius: 30px;
+
+}
+aside a{
+    border-radius: 20px;
+}
+  
+  
